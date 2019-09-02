@@ -1,7 +1,7 @@
 # Intro to Programming for Journalists
 
 - Solitaire example
-- python anywhere setup
+- [python anywhere](https://www.pythonanywhere.com/user/shmcminn/) setup
 - python anywhere wakeup example
 	
 	```python

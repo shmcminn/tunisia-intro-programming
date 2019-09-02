@@ -41,8 +41,7 @@
 	```
 
 	```
-	>>> ['get up', 'say hi to Nikki', 'say hi to friend Brian', 'say hi to cousin Morgan', 'shower', 'brush teeth', 'wash face', 'make lunch', 'walk to subway', 'tak
-e subway to work']
+	>>> ['get up', 'say hi to Nikki', 'say hi to friend Brian', 'say hi to cousin Morgan', 'shower', 'brush teeth', 'wash face', 'make lunch', 'walk to subway', 'take subway to work']
 	```
 
 

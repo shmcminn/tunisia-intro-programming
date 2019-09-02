@@ -16,7 +16,7 @@
 	guests = [guest_1, guest_2]
 	todo = []
 	```
-	```python	
+	```python
 	if alarm_hrs < 8 and busy_day == False:
 	    todo.append("hit snooze")
 	    todo.append("get up")
@@ -38,6 +38,11 @@
 	    todo.append("walk to subway")
 	    todo.append("take subway to work")
 	print(todo)
+	```
+
+	```
+	>>> ['get up', 'say hi to Nikki', 'say hi to friend Brian', 'say hi to cousin Morgan', 'shower', 'brush teeth', 'wash face', 'make lunch', 'walk to subway', 'tak
+e subway to work']
 	```
 
 

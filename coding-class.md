@@ -4,7 +4,7 @@
 - python anywhere setup
 - python anywhere wakeup example
 	
-	```
+	```python
 	alarm_hrs = 7
 	alarm_min = 22
 	weekday = "Tues"
@@ -16,7 +16,7 @@
 	guests = [guest_1, guest_2]
 	todo = []
 	```
-	```
+	```python	
 	if alarm_hrs < 8 and busy_day == False:
 	    todo.append("hit snooze")
 	    todo.append("get up")
